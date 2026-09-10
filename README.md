@@ -76,4 +76,7 @@ Our solution is an AI-powered workload management application to reduce students
   </tr>
 </table>
 <h1>3. Design & Prototype</h1>
+Figma Link: https://www.figma.com/design/APIdv8gRfvNeJf9uEsCXGD/MMU-Hackathon-Wireframe?node-id=0-1&p=f&t=scmWPXBUBO2nfBfa-0
+<br>
+Prototype Link: https://figma.com/proto/APIdv8gRfvNeJf9uEsCXGD/MMU-Hackathon-Wireframe?node-id=0-1&p=f&t=scmWPXBUBO2nfBfa-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=284%3A671&show-proto-sidebar=1
 <h1>4. What Makes It Different</h1>
