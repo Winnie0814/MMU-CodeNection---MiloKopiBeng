@@ -57,6 +57,14 @@ Our solution is an AI-powered workload management application to reduce students
     <td>Games (Chosen) </td>
     <td>The games encourage users to complete their tasks. Besides, it also provide an effective way to reduce user's stress.</td>
   </tr>
+  <tr>
+    <td>Leaderboard (not chosen)</td>
+    <td>We also thought about adding a leaderboard to motivate students by comparing their progress with others, making them to feel more eager in completing          their tasks. However, the competition might not be suitable for the app as it increases frustration, especially students that are overwhelmed with their           tasks. Since our goal is to help students to work according to their own pace, we decided to not include the feature.</td>
+  </tr>
+  <tr>
+    <td>Screen Time Blocking (not chosen)</td>
+    <td>We thought about including this feature when students start to do their tasks. However, our app focuses more on workload management and preventing burnout, not restricting distractions. Therefore, we think that this feature is not our main feature that can support our objective.</td>
+  </tr>
 
 </table>
 <h2>2.2 Ideation Boards</h2>
@@ -87,3 +95,14 @@ Figma Link: https://www.figma.com/design/APIdv8gRfvNeJf9uEsCXGD/MMU-Hackathon-Wi
 <br>
 Prototype Link: https://figma.com/proto/APIdv8gRfvNeJf9uEsCXGD/MMU-Hackathon-Wireframe?node-id=0-1&p=f&t=scmWPXBUBO2nfBfa-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=284%3A671&show-proto-sidebar=1
 <h1>4. What Makes It Different</h1>
+<p>Unlike typical burnout or productivity apps that mainly track tasks, screen time, or remind users to take breaks, our app provides active and personalised burnout support. The AI will analyze a student’s workload, capacity, energy level, and emotions to identify when they may be overloaded. When students feel overwhelmed, the AI acts like a supportive tutor by helping them prioritise tasks, suggesting how to approach them, and showing when they may need to reduce their workload. Breaks are given if the system detects a burnout. The app will recommend students to take a break through a spin wheel and relaxing pet-based games. Students can also connect with peer communities for social support. This makes the app different by combining workload management, burnout prevention, recovery, and social connection in one platform.
+
+Ideation 
+Spin Wheel 
+We feel that many students do not know how to take effective breaks. When they finally take a break, they choose to doomscroll their phones because they are too mentally tired to decide what to do. However, this can make breaks longer than intended and leave students to feel more drained. This inspired our Spin Wheel feature. When the system detects that a student’s workload and energy level indicate a need for rest, the wheel suggests simple break activities for them. This removes the pressure of choosing an activity and encourages students to step away from their workload, recover their energy, and manage burnout before returning to their tasks.
+Daily Check-in 
+Students often plan their workload based on how much time they have but overlook whether they actually have the energy and mental capacity to complete it. The daily check-in lets students to record and the system compares their workload to identify possible overload and recommend adjusting tasks or taking breaks. This helps students understand how much they can realistically handle each day and prevent burnout before it worsens.
+Pet Companion 
+We came up with the Pet Companion because students under heavy workloads can sometimes feel stressed, lonely, or mentally drained. Not everyone has someone to talk to when they feel overwhelmed. We wanted to create a small source of comfort that students can interact with during their breaks and helping them relax. Instead of pending breaks doomscrolling, students can play short activities with their pet to relax and emotionally recharge. The pet also encourages healthy habits such as taking breaks and completing daily check-ins, making burnout management feel more engaging and less like another task.
+
+</p>
