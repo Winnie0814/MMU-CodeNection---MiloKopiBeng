@@ -2,7 +2,7 @@
 Team: Winnie Teo Wan Yi (L), Michelle Lim Pei Ling, Lim Cher Earn, Tan Yin Le <br>
 Problem Statement: Stress & Workload Manager <br>
 Video Presentation:  <br>
-Presentation Slides: <br>
+Presentation Slides: https://canva.link/3dr5621kbuyf9s4 <br>
 <h1>1. Project Overview</h1>
 <br>
 
@@ -69,6 +69,7 @@ Our solution is an AI-powered workload management application to reduce students
 
 </table>
 <h2>2.2 Ideation Boards</h2>
+https://www.figma.com/design/APIdv8gRfvNeJf9uEsCXGD/MMU-Hackathon-Wireframe?node-id=483-998&p=f&t=ekuVCWmQYWfiGoYx-0
 <h2>2.3 Mentor Consultation</h2>
 <table border=2 >
   <tr>
