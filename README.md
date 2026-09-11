@@ -42,19 +42,20 @@ Our solution is an AI-powered workload management application to reduce students
   </tr>
   <tr>
     <td>User preferences (Chosen) </td>
-    <td></td>
+    <td>The first time visit users will be asked about their preferences, such as their hobbies and preferred activities. These preferences will then be used in the spin wheel to recommend suitable activities for users to do during their break time.</td>
   </tr>
   <tr>
     <td>To-Do List + Detail AI analyze (Chosen) </td>
-    <td></td>
+    <td>The AI analyzes the importance of each task and and their estimated time to complete. Then, the system will also suggest a way for users to complete their tasks in the simplest and clearest way as possible. Not only that, an AI chatbot will also pop up after users complete a task to ask about their current feelings and stress levels.
+</td>
   </tr>
   <tr>
     <td>Heart rate monitor watch (Chosen) </td>
-    <td></td>
+    <td>Users can take an immediate break and stop their current task when their heart rate exceeds 120 bpm. This can help users to prevent from becoming overloaded and allows them to rest before continuing their tasks.</td>
   </tr>
   <tr>
     <td>Games (Chosen) </td>
-    <td></td>
+    <td>The games encourage users to complete their tasks. Besides, it also provide an effective way to reduce user's stress.</td>
   </tr>
 
 </table>
