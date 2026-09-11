@@ -2,7 +2,6 @@
 Team: Winnie Teo Wan Yi (L), Michelle Lim Pei Ling, Lim Cher Earn, Tan Yin Le <br>
 Problem Statement: Stress & Workload Manager <br>
 Video Presentation:  <br>
-Presentation Slides:  <br>
 <h1>1. Project Overview</h1>
 <br>
 
