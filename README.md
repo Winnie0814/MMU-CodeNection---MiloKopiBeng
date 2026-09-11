@@ -42,20 +42,20 @@ Our solution is an AI-powered workload management application to reduce students
     <th><b>Why it was dropped / kept</b></th>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
+    <td>User preferences</td>
+    <td></td>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
+    <td>To-Do List + Detail AI analyze</td>
+    <td></td>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
+    <td>Heart rate monitor watch</td>
+    <td></td>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
+    <td>Games</td>
+    <td></td>
   </tr>
 
 </table>
@@ -71,8 +71,15 @@ Our solution is an AI-powered workload management application to reduce students
   <tr>
     <th>9 September 2026</th>
     <th>Marcus Mah Qing Fung</th>
-    <th>-Include AI-powered features in the Task List section. <br>-Productivity is not the core objective. <br>-Show what users need to sacrifice to avoid from getting bunout.</th>
-    <th>-Add AI-powered detailed task analysis to the task list section. <br>-Ask the user how they feel after completing each task. </th>
+    <td>
+      -	The system should estimate the user’s daily or weekly work capacity. <br>
+      -	Each task can receive a workload score so that it can be compared against the student’s estimated capacity. It lets the system to identify whether the student is currently within a manageable workload or they have overloaded. <br>
+      -	The task list should not just be a basic to-do list, but a more effective feature that can analyse user’s tasks. It should do workload analysis and capacity calculation. <br>
+      -	The system can then explain whether the user is within capacity or exceeding their capacity and recommend which tasks should be prioritised, postponed or removed.</td>
+    <td>-The task list has been enhanced with an AI-powered task analysis feature that analyse the user’s tasks. The AI will analyze the tasks into small tasks which makes students easy to follow.  <br>
+- A daily check-in is added that allows the system to understand student’s actual condition instead of relying only on task information. The system will ask students to fill in their report factors such as energy level, stress level and available time and use this information to adjust the user’s estimated capacity for the day.   <br>
+- The daily check-in is combine with capacity and AI analysis. These features work together and AI will analyse which tasks are causing overload and suggest realistic adjustments. <br>
+    </td>
   </tr>
 </table>
 <h1>3. Design & Prototype</h1>
