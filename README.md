@@ -42,19 +42,19 @@ Our solution is an AI-powered workload management application to reduce students
     <th><b>Why it was dropped / kept</b></th>
   </tr>
   <tr>
-    <td>User preferences</td>
+    <td>User preferences (Chosen) </td>
     <td></td>
   </tr>
   <tr>
-    <td>To-Do List + Detail AI analyze</td>
+    <td>To-Do List + Detail AI analyze (Chosen) </td>
     <td></td>
   </tr>
   <tr>
-    <td>Heart rate monitor watch</td>
+    <td>Heart rate monitor watch (Chosen) </td>
     <td></td>
   </tr>
   <tr>
-    <td>Games</td>
+    <td>Games (Chosen) </td>
     <td></td>
   </tr>
 
@@ -69,8 +69,8 @@ Our solution is an AI-powered workload management application to reduce students
     <th><b>What Was Changed</b></th>
   </tr>
   <tr>
-    <th>9 September 2026</th>
-    <th>Marcus Mah Qing Fung</th>
+    <td>9 September 2026</td>
+    <td>Marcus Mah Qing Fung</td>
     <td>
       -	The system should estimate the user’s daily or weekly work capacity. <br>
       -	Each task can receive a workload score so that it can be compared against the student’s estimated capacity. It lets the system to identify whether the student is currently within a manageable workload or they have overloaded. <br>
